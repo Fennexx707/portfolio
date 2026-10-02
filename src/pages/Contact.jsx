@@ -16,7 +16,6 @@ export default function Contact() {
   const navigate = useNavigate()
   const [formData, setFormData] = useState(emptyForm)
 
-  // Update one field at a time as the visitor types
   function handleChange(event) {
     const { name, value } = event.target
     setFormData({ ...formData, [name]: value })

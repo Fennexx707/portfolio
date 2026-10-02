@@ -1,4 +1,4 @@
-// Custom logo: a hexagon with a heartbeat line and the letter N (original artwork)
+
 export default function Logo({ size = 40 }) {
   return (
     <svg

@@ -15,7 +15,6 @@ export default function Home() {
       )}
 
       <section className="hero">
-        {/* Heartbeat line draws itself once when the page loads */}
         <svg className="pulse" viewBox="0 0 800 120" aria-hidden="true" preserveAspectRatio="none">
           <path d="M0 60h250l25-45 40 90 35-70 25 25h425" pathLength="1" />
         </svg>

@@ -1,11 +1,11 @@
-// Main navigation bar with the logo and a link to each of the six pages
+
 import { useState } from 'react'
 import { NavLink, Link } from 'react-router-dom'
 import Logo from './Logo.jsx'
 import { navigationLinks } from '../data/portfolioData.js'
 
 export default function NavBar() {
-  // Controls whether the menu is open on small screens
+
   const [menuIsOpen, setMenuIsOpen] = useState(false)
 
   return (

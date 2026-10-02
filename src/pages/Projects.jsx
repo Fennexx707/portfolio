@@ -1,4 +1,4 @@
-// Projects page: one card per project with an image, my role and the outcome
+
 import { projectList } from '../data/portfolioData.js'
 
 export default function Projects() {

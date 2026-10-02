@@ -30,7 +30,6 @@ export default function About() {
             During my studies in the field of technology, I gained experience as a cashier and a cook that helped me learn to be cool in stressful situations and to work effectively in a group. Besides, I have taught computers to elderly women, which made me understand the value of patience and clearness of language when designing something.
           </p>
 
-          {/* The resume PDF lives in the public folder so it can be linked directly */}
           <a className="button primary" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
             View my resume (PDF)
           </a>

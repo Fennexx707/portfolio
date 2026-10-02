@@ -1,4 +1,4 @@
-// Services page: what I can help with, each with an image
+
 import { serviceList } from '../data/portfolioData.js'
 
 export default function Services() {

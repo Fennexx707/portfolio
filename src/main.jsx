@@ -1,4 +1,4 @@
-// Entry point: mounts the React app and enables client-side routing
+
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'

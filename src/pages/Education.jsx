@@ -1,4 +1,4 @@
-// Education page: schools, credentials and dates
+
 import { educationList } from '../data/portfolioData.js'
 
 export default function Education() {

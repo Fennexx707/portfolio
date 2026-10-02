@@ -1,5 +1,4 @@
-// All the editable content for the site lives here.
-// Change the values below and every page updates automatically.
+
 
 export const ownerInfo = {
   firstName: 'Nuha',
@@ -8,7 +7,7 @@ export const ownerInfo = {
   email: 'nnoor9@my.centennialcollege.ca', 
   phone: '(647) 766-8771', 
   location: 'Toronto, Ontario',
-  github: 'https://github.com/nuhanoor', // TODO: replace
+  github: 'https://github.com/Fennexx707', 
   linkedin: 'https://www.linkedin.com/in/nuha-noor-undefined123/?isSelfProfile=true', 
 };
 
