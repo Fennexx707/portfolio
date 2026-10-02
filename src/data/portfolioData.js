@@ -40,7 +40,7 @@ export const projectList = [
     tools: ['Oracle SQL', 'Docker', 'Teamwork'],
     role: 'I worked with a team to design the tables, write the SQL, and get the Oracle database running in Docker.',
     outcome:
-      'I have been able to create a neat, responsive and vibrant website design that works on mobiles and computers.',
+      'We implemented our assignment by producing a fully functional database that included all required tables, relationships, and queries.',
   },
   {
     title: 'Restaurant Website',

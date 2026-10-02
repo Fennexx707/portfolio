@@ -1,5 +1,4 @@
-// Contact page: contact details panel plus a message form.
-// The form captures what the visitor types, then redirects to the Home page.
+
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ownerInfo } from '../data/portfolioData.js'

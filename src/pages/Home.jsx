@@ -1,4 +1,4 @@
-// Home page: welcome message, mission statement, and buttons to other pages
+
 import { Link, useLocation } from 'react-router-dom'
 import { ownerInfo, missionStatement } from '../data/portfolioData.js'
 
@@ -22,7 +22,7 @@ export default function Home() {
         <p className="hero-kicker">Welcome to my portfolio</p>
         <h1>Hi, I'm {ownerInfo.firstName}.</h1>
         <p className="hero-sub">
-          I'm 18 years old, ethnically Bengali, and I'm a digital health engineering student at Centennial College, learning to build software for healthcare. In this webpage, you'll discover all about me, my passions, projects and etc.
+          I'm 18 years old, ethnically Bengali, and I'm a digital health engineering student at Centennial College, learning to build software for healthcare. In this webpage, you'll discover all about me, my passions, projects and more.
         </p>
 
         <div className="button-row">

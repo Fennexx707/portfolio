@@ -1,4 +1,4 @@
-// About Me page: legal name, photo, short bio, and resume link
+
 import { ownerInfo, experienceList } from '../data/portfolioData.js'
 
 export default function About() {
