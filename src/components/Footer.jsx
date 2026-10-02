@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <footer className="site-footer">
       <p>
-        &copy; {currentYear} {ownerInfo.legalName}. COMP229. Assignment 1.
+        &copy; {currentYear} {ownerInfo.legalName}. COMP229. Assignment 1. Built with React.
       </p>
     </footer>
   )
